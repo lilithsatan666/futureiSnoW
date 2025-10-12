@@ -1,0 +1,61 @@
+{
+  "cmsCollection": {
+    "name": "Dystopia Images",
+    "fields": [
+      {
+        "fieldKey": "image",
+        "type": "image",
+        "displayName": "Image",
+        "description": "The image file from Amazon S3 or Wix Media."
+      },
+      {
+        "fieldKey": "title",
+        "type": "text",
+        "displayName": "Title",
+        "description": "Title of the image."
+      },
+      {
+        "fieldKey": "description",
+        "type": "richText",
+        "displayName": "Description",
+        "description": "A short description of the image."
+      },
+      {
+        "fieldKey": "tags",
+        "type": "tags",
+        "displayName": "Tags",
+        "description": "Tags for categorization (e.g., neon, simcity, LA, dystopia)."
+      },
+      {
+        "fieldKey": "location",
+        "type": "text",
+        "displayName": "Location",
+        "description": "City or location (e.g., Los Angeles)."
+      },
+      {
+        "fieldKey": "dateAdded",
+        "type": "dateTime",
+        "displayName": "Date Added",
+        "description": "Date the image was added to the collection."
+      }
+    ],
+    "sampleItems": [
+      {
+        "image": "https://lilith-dystopia-images.s3.amazonaws.com/neon-skyline.jpg",
+        "title": "Neon Skyline",
+        "description": "A futuristic night view of Los Angeles, bathed in neon.",
+        "tags": ["neon", "night", "LA", "dystopia"],
+        "location": "Los Angeles",
+        "dateAdded": "2025-10-12T21:00:00Z"
+      },
+      {
+        "image": "https://lilith-dystopia-images.s3.amazonaws.com/dystopian-downtown.jpg",
+        "title": "Dystopian Downtown",
+        "description": "Sim City inspired digital art of downtown LA.",
+        "tags": ["simcity", "art", "downtown"],
+        "location": "Los Angeles",
+        "dateAdded": "2025-10-12T20:45:00Z"
+      }
+    ]
+  }
+}

@@ -26,4 +26,5 @@
 
 
 
-# futureiSnoW
+<img src="https://developer.chrome.com/static/docs/lighthouse/seo/invalid-robots-txt/image/lighthouse-audit-showing-fc8c9a82152c3.png" alt="Lighthouse audit showing invalid robots.txt"/><img width="880" height="223" alt="image" src="https://github.com/user-attachments/assets/9a2a4912-c17d-44a7-952d-6431bbcbe666" />
+

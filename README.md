@@ -1,3 +1,10 @@
+<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/9cd8cfbb-b770-409a-9b38-5df4b65acd2b" />
+
+
+
+
+
+
 <img src="https://res.cloudinary.com/teepublic/image/private/s--K9JhLW3A--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/t_watermark_lock/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1626418824/production/designs/19783878_2.jpg" alt="Seal Of Lilith - Witch - Sticker | TeePublic"/><img width="630" height="630" alt="image" src="https://github.com/user-attachments/assets/71f044fe-ce40-4582-91b3-aee3756e7be3" />
 <img width="752" height="192" alt="Screenshot 2025-10-12 3 45 54 PM" src="https://github.com/user-attachments/assets/6f3c1b44-d39a-4cfb-b870-c51e88f977e6" />
 ![lilith](https://github.com/user-attachments/assets/d9c9c63d-9da0-44a8-a2cf-122e1d366e16)
